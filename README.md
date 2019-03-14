@@ -2,7 +2,6 @@
 
 This is the first in this repo.
 
-## Ipsum Below
+## Website Contents
 
-Yes I am below you. 
-Adding another statement
+1. index.html
